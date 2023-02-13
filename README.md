@@ -30,3 +30,6 @@ TelegramLogger.logToChannel(
     }
 )
 ```
+## License
+The contents of this repository are licensed under the
+[MIT License](https://github.com/nickbronnikov/TelegramLogger/blob/main/LICENSE)
