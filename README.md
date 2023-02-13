@@ -24,7 +24,7 @@ dependencies {
 TelegramLogger.logToChannel(
     "bot_token",
     "some_channel_name_or_chat_id",
-    it,
+    "Some message",
     { response ->
       //Using telegram response
     }
