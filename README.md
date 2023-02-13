@@ -21,12 +21,12 @@ dependencies {
 ### Usage
 #### Sending message to Telegram channel
 ```kotlin
-        TelegramLogger.logToChannel(
-            "bot_token",
-            "some_channel_name_or_chat_id",
-            it,
-            { response ->
-              //Using telegram response
-            }
-        )
+TelegramLogger.logToChannel(
+    "bot_token",
+    "some_channel_name_or_chat_id",
+    it,
+    { response ->
+      //Using telegram response
+    }
+)
 ```
