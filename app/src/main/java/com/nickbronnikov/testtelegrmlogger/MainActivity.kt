@@ -27,8 +27,8 @@ class MainActivity : ComponentActivity() {
                 ) {
                     SentTelegramMessage {
                         TelegramLogger.logToChannel(
-                            "683842151:AAHQdXjEkoaXyyOnJUbRdDPvYjUU-NHFHK0",
-                            "-1001652188595",
+                            "",
+                            "",
                             it,
                             {
 
